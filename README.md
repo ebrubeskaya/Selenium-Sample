@@ -1,7 +1,7 @@
 # SeleniumSample
 
 In this study, using Selenium Webdriver via demoqa.com website.
-Steps:
++ Steps:
 * The web page opens
 * Go to the Elements header
 * Go to the Web Tables subheading
